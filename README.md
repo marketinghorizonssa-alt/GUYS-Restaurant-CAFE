@@ -13,3 +13,7 @@ Official Google Ads destination landing page for GUYS Restaurant & Cafe in Al Ju
 - Native WhatsApp / Leads from Messages: Primary when Google exposes and verifies the goal.
 - Website WhatsApp clicks: Secondary only.
 - PMax campaign remains paused until final QA and explicit launch approval.
+
+## Deployment
+
+GitHub Pages source: GitHub Actions.
