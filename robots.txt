@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://marketinghorizonssa-alt.github.io/GUYS-Restaurant-CAFE/sitemap.xml
